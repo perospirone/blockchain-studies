@@ -1,4 +1,4 @@
-module blockchain-studies
+module github.com/perospirone/blockchain-studies
 
 go 1.23.4
 
